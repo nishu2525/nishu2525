@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishad@Umap
 - 👀 I’m interested in Developing & creaeing new things
-- 🌱 I’m currently learning Full stack development 
+- 🌱 I’m currently learning Full stack development {Mern Stack}
 - 📫 How to reach me either mail me on umapnishad1@gmail.com or ping me linkedin -  www.linkedin.com/in/nishad-umap-68233319b
 
 <!---
