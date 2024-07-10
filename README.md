@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQHqWcnhUwjPog/profile-displaybackgroundimage-shrink_350_1400/0/1693072750624?e=1719446400&v=beta&t=58u_lADHrVjFJJFv1nuSZuKZSYiVInMeqf2Bw5ZTBa4)
+
 <h1 align="center">Hi 👋, I'm Nishad Umap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="coding_boy" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
